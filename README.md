@@ -6,9 +6,14 @@ It will give two initial hints for the user to start guessing and will tell if t
 
 It will also record the numbers the player tried and the number of fails.
 
-![Game sample and code](https://user-images.githubusercontent.com/82436702/183398213-a9b726df-7c7a-4e4b-8600-fce96d9ae731.png)
+![image](https://user-images.githubusercontent.com/82436702/189878661-7eff94a8-f818-4e0e-94d8-009f3902a9de.png)
 
-![Function sample](https://user-images.githubusercontent.com/82436702/183398151-39f0a0d7-78fe-4744-a977-1c8d9047619a.png)
+![image](https://user-images.githubusercontent.com/82436702/189878768-bd7cb1be-11c7-45c6-aec5-a7ef853f8336.png)
+
+You can find the version with GUI and the MATLAB command window version.
+
+![image](https://user-images.githubusercontent.com/82436702/189879216-10ef5798-c829-4730-80fa-38d3a72e95be.png)
+
 
 
 ## Usage
@@ -19,7 +24,7 @@ The game will go on until the user guesses the game. After that, you can rerun i
 
 It will keep a record and inform you of the numbers you tried and the failures you made.
 
-![Finished game](https://user-images.githubusercontent.com/82436702/183398015-78758656-57dc-4bdd-a049-b114273f1b5f.png)
+If you don't have MATLAB, install the app by running the MyAppInstaller_web.exe file to install the game. Then, run the installed file.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
